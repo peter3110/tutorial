@@ -1,1 +1,1 @@
-(Borro 'Esto lo desde MacOS local) escribo desde MacOS local.
+Mergeo (escribo desde MacOS local)(Y ahora agrego una modificacion desde Internet (borro la palabra 'local'))
